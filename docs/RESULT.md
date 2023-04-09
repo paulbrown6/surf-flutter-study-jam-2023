@@ -9,9 +9,9 @@
 
 # Ссылки на демонстрацию работы/скриншоты
 
-[Screenshot_20230409_193956.png
-Screenshot_20230409_194015.png
-Screenshot_20230409_194037.png
-Screenshot_20230409_194104.png
-Screenshot_20230409_194211.png
-Screenshot_20230409_194222.png]
+[https://github.com/paulbrown6/surf-flutter-study-jam-2023/blob/main/docs/assets/Screenshot_20230409_193956.png
+https://github.com/paulbrown6/surf-flutter-study-jam-2023/blob/main/docs/assets/Screenshot_20230409_194015.png
+https://github.com/paulbrown6/surf-flutter-study-jam-2023/blob/main/docs/assets/Screenshot_20230409_194037.png
+https://github.com/paulbrown6/surf-flutter-study-jam-2023/blob/main/docs/assets/Screenshot_20230409_194104.png
+https://github.com/paulbrown6/surf-flutter-study-jam-2023/blob/main/docs/assets/Screenshot_20230409_194211.png
+https://github.com/paulbrown6/surf-flutter-study-jam-2023/blob/main/docs/assets/Screenshot_20230409_194222.png]
