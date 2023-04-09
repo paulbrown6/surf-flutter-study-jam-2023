@@ -1,0 +1,12 @@
+{
+  "connection_error": "Ошибка соединения",
+  "unknown_error": "Неизвестная ошибка",
+  "files": "Файлы",
+  "error_url_validation": "Указан неверный url",
+  "add_file": "Добавить файл",
+  "url": "Ссылка",
+  "empty_list": "Список пуст.",
+  "success_download": "Файл загружен",
+  "error_download": "Ошибка загрузки",
+  "wait_download": "В ожидании загрузки"
+}
